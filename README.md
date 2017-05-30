@@ -1,5 +1,7 @@
 # Logger
 
+[![Build Status](https://travis-ci.org/BeneathTheInk/code-test.svg?branch=master)](https://travis-ci.org/BeneathTheInk/code-test)
+
 This is the Pagedip logging library. This works in both browsers and Node.js and has an API that is similar to console.
 
 ```js
